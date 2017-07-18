@@ -1,25 +1,37 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="095Monheim AB Dreieck" id="0" comment="" altitude="50.0">
-      <Location longitude="6.9322167" latitude="51.08195"/>
+    <Waypoint name="142Witzhelden Turm rot/weiß" id="0" comment="" altitude="400.0">
+      <Location longitude="7.0986167" latitude="51.11945"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="084Linnich Kontrollpunkt" id="0" comment="" altitude="100.0">
-      <Location longitude="6.2772167" latitude="50.9991667"/>
+    <Waypoint name="106Plettenberg-Hueinghausen" id="0" comment="" altitude="299.0">
+      <Location longitude="7.7922167" latitude="51.19305"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="113Ritzeroder Duenen" id="0" comment="" altitude="86.0">
-      <Location longitude="6.1922167" latitude="51.1766667"/>
+    <Waypoint name="010Ailertchen" id="0" comment="" altitude="470.0">
+      <Location longitude="7.9458333" latitude="50.59445"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="021Bergheim" id="0" comment="" altitude="70.0">
-      <Location longitude="6.6077833" latitude="50.965"/>
+    <Waypoint name="050Effelsberg Radio" id="0" comment="" altitude="346.0">
+      <Location longitude="6.8838833" latitude="50.5247167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="128Stolberg-Diepenlinchen" id="0" comment="" altitude="260.0">
+      <Location longitude="6.2791667" latitude="50.7683333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="082Langenfeld AB-Dreieck" id="0" comment="" altitude="72.0">
+      <Location longitude="6.9866667" latitude="51.1138833"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
